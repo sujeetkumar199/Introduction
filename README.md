@@ -1,3 +1,3 @@
 # Introduction
-This is my first Git repository.
-Author-/sujeet kumar
+This is my first Git repository.<br>
+Author-sujeet kumar
